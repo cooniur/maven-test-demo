@@ -1,7 +1,0 @@
-#surefire_0
-#Fri Aug 22 15:30:08 PDT 2014
-maven.surefire.debug=true
-user.dir=/Users/tliu3/Workspace/practice/maven-webapp
-localRepository=/Users/tliu3/.m2/repository
-basedir=/Users/tliu3/Workspace/practice/maven-webapp
-test=EchoServiceTest
